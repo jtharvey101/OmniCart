@@ -1,0 +1,8 @@
+{
+  "name": "Remix Universal Cart \u0026 Multi-Store Checkout",
+  "description": "Import products from any website into a unified cart with price drop alerts, shareable cart links, order history tracking, and PCI-compliant direct-to-merchant checkout.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
